@@ -1,0 +1,27 @@
+# Keil MDK
+Listings/
+Objects/
+DebugConfig/
+*.axf
+*.bin
+*.hex
+*.build_log.htm
+*.htm
+*.lnp
+*.sct
+*.map
+*.dep
+*.crf
+*.o
+*.d
+
+# STM32CubeIDE / Eclipse 
+Debug/
+Release/
+.settings/
+
+# Temp file
+.DS_Store
+Thumbs.db
+*.bak
+*.orig
